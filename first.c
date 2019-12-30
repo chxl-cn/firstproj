@@ -5,4 +5,7 @@ int main()
 	scanf("%d",&i) ;
         j = i ;
 	printf("hello world");
+	
+	scanf("%d",&j) ;
+	printf("%d,%d",i,j);
 }
